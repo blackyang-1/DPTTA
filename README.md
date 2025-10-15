@@ -1,8 +1,5 @@
 # DP-TTA: Test-time Adaptation for Transient Electromagnetic Signal Denoising via Dictionary-driven Prior Regularization
 
-![Domain shift problem introduction](domain-shift.png)  
-*Fig. 1. Illustration of the domain shift problem between source and unseen domains.*
-
 > **Official PyTorch Implementation**  
 > IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025  
 > DOI: [10.1109/TGRS.2025.3620531](https://doi.org/10.1109/TGRS.2025.3620531)  
@@ -17,6 +14,9 @@ It mitigates the **domain shift problem** — where noise characteristics vary a
 
 The core idea is that **TEM signals possess domain-invariant physical properties** (exponential decay and smoothness).  
 DP-TTA exploits these as priors to guide dynamic parameter updates during inference, enabling better denoising performance in unseen environments.
+
+![Domain shift problem introduction](domain-shift.png)  
+*Fig. 1. Illustration of the domain shift problem between source and unseen domains.*
 
 ---
 
