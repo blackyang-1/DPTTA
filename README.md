@@ -1,9 +1,9 @@
 # DP-TTA: Test-time Adaptation for Transient Electromagnetic Signal Denoising via Dictionary-driven Prior Regularization
 
-![Domain shift problem introduction](domain-fig-12.png)  
+![Domain shift problem introduction](domain-shift.png)  
 *Fig. 1. Illustration of the domain shift problem between source and target domains*:contentReference[oaicite:2]{index=2}
 
-![Overview of the proposed method](overview-of-method10.png)  
+![Overview of the proposed method](overview-method.png)  
 *Fig. 2. Overall framework of DTEMDNet and DP-TTA*:contentReference[oaicite:3]{index=3}
 
 > **Official PyTorch Implementation**  
