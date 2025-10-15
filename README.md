@@ -3,9 +3,6 @@
 ![Domain shift problem introduction](domain-shift.png)  
 *Fig. 1. Illustration of the domain shift problem between source and unseen domains.*
 
-![Overview of the proposed method](overview-method.png)  
-*Fig. 2. Overall framework of DTEMDNet and DP-TTA.*
-
 > **Official PyTorch Implementation**  
 > IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025  
 > DOI: [10.1109/TGRS.2025.3620531](https://doi.org/10.1109/TGRS.2025.3620531)  
